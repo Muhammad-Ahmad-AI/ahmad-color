@@ -325,7 +325,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 /*-------------------------------------
         5. Service 
 --------------------------------------*/
-.service { padding: 260px 0 87px;}
+.service { padding: 60px 0 87px;}
 
 .single-service-item{
     text-align: center;
@@ -349,7 +349,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     margin: 35px 0 20px;
 }
 .single-service-item h2 a span {text-transform:  lowercase;}
-.single-service-item p {padding-bottom: 35px;text-transform: initial;position: relative;}
+.single-service-item p {padding-bottom: 35px;text-transform: initial;position: relative; height: 250px; text-align: justify;
+    text-justify: inter-word}
 .single-service-item p:before {
     position: absolute;
     content: "";
@@ -491,6 +492,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     color: #5e6778;
     margin-top: 30px;
     margin-bottom: 25px;
+    text-align: justify;
+    text-justify: inter-word;
+    min-height: 200px
 }/* testimonial-comment */
 
 
