@@ -427,6 +427,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     height: 220px;
     border-bottom: 1px solid #dadfe9;
 }
+.featured-cars-img img {
+    height: 210px;
+    width: 210px;
+}
 .featured-model-info{padding:12px 7px;}
 .featured-model-info p {
     font-size: 12px;
